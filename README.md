@@ -67,8 +67,7 @@ And a most happy time.
 ---
 
 ## 📸 Hugging Face Interface
-![Hugging Face Space Screenshot](./screenshot.png)
-*(Note: Replace this placeholder with your actual screenshot from the Space)*
+![Hugging Face Space Screenshot](./assignment12_screenshot(huggingface_space).png)
 
 ---
 
